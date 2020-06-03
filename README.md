@@ -1,3 +1,3 @@
-https://github.com/rahulch49/LA-Assignment
+LA Scilab Assignments (UE18MA201)
 
 SRN : PES1201801488
